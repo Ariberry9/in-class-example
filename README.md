@@ -1,6 +1,6 @@
 # CSCI040: Continuous Integration Example
 
-<img src="https://github.com/mikeizbicki/example-doctests/workflows/tests/badge.svg" />
+<img src="https://github.com/Ariberry9/example-doctests/actions/workflows/test.yaml/badge.svg" />
 
 This repo is for an in-class example of how to use doctests and continuous integration on github.
 
@@ -70,3 +70,5 @@ To fix this, you must:
 1. enable github actions through the web interface
 1. modify the `README.md` file so that the image points to your repository instead of mine
 1. Rerun the add/commit/push commands to upload your changes to github
+
+<!-- test: badge fix -->
